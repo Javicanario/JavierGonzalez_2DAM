@@ -29,7 +29,7 @@ public class GestorTienda {
                     System.out.println("Mostrar datos: ");
                     break;
                 case 2:
-                    System.out.println("Ejecutando: Eliminar por Título...");
+                    System.out.println("Ejecutando: Eliminar por titulo...");
                     break;
                 case 3:
                     System.out.println("Ejecutando: Búsqueda Inteligente...");
